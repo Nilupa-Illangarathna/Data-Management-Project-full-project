@@ -1,0 +1,11 @@
+{
+  "loginPage": {
+    "app_title": "登录页面",
+    "topic": "登录",
+    "email_or_phone_label": "电子邮件或电话",
+    "password_label": "密码",
+    "remember_me": "记住我",
+    "forgot_password": "忘记密码？",
+    "submit": "提交"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "commonAlerts": {
+    "logged_in_succes": "Logged in Success!",
+    "logged_in_failed": "Failed to logged in!",
+    "something_went_wrong": "Something went wrong!",
+    "no_internet": "No internet!"
+  },
+
+  "loginPage": {
+    "app_title": "Login Page",
+    "topic": "Login",
+    "email_or_phone_label": "Email or Phone",
+    "password_label": "Password",
+    "remember_me": "Remember Me",
+    "forgot_password": "Forgot Password?",
+    "submit": "Login",
+    "or_continue_with": "Or Continue with",
+    "new_to_kiosync": "New to Kiosync? ",
+    "signup": "Signup",
+    "email_error" : "Email or Phone is incorrect",
+    "password_error" : "Password doesn't match",
+    "invalid_username_passowrd" : "Invalid username or password"
+  },
+  "forgotPasswordPage": {
+    "page_title": "Forgot Password",
+    "enter_email_or_phone": "Enter your email or mobile number",
+    "enter_email_description": "Enter your email for the verification process, we will send a 4-digit code to your email.",
+    "enter_mobile_description": "Enter your mobile number for the verification process, we will send a 4-digit code to your mobile.",
+    "email_button": "Email",
+    "mobile_button": "Mobile",
+    "password_changed": "Password Changed!",
+    "new_password_label": "New Password",
+    "confirm_new_password_label": "Confirm New Password",
+    "reset_password_button": "Reset Password",
+    "continue_button": "Continue",
+    "resend_otp_button": "Resend OTP",
+    "back_to_login_button": "Back to Login",
+    "close_btn": "Close",
+    "enter_otp_description": "Please input the 4-digit verification code that was sent to your email in order to continue.",
+    "mobile_number" : "Mobile Number"
+
+  },
+  "signUpPage" : {
+    "Full_Name": "Full Name",
+    "Signup": "Signup",
+    "Email": "Email",
+    "Verify_Email": "Verify Email",
+    "Mobile_Number": "Mobile Number",
+    "Verify_Mobile_Number": "Verify Mobile Number",
+    "Address": "Address",
+    "Password": "Password",
+    "Confirm_Password": "Confirm Password",
+    "Login": "Login",
+    "Description": "Fill all the fields to start your journey with Kiosync",
+    "Resend_OTP_in": "Resend OTP in",
+    "email_error" : "Email is incorrect",
+    "phone_error" : "Phone is incorrect",
+    "name_error" : "Name is incorrect",
+    "address_error" : "Address is incorrect",
+    "password_error" : "Minimum 8 characters including upper & lower case English letters, numbers, and special characters, maximum 20 characters",
+    "confirm_password_error" : "Password doesn't match",
+    "otp_sent_success" : "The OTP has been successfully sent.",
+    "otp_sent_failed" : "Failed to send the OTP. Please try again!",
+    "otp_verification_success" : "OTP has been verified successfully.",
+    "otp_verification_failed" : "OTP verification has failed. Please try again.",
+    "otp_code_incorrect" : "Please enter the OTP code.",
+    "email_and_mobile_not_verified" : "Please verify your email address and mobile number before signing up.",
+    "user_already_exist" : "User already exists!"
+  },
+  "termsAndConditionsPage" : {
+  "terms_and_privacy": "Terms and Privacy",
+  "agree_message": "By touching Agree button, you are accepting our Terms & Conditions, Marketing Terms, and Privacy policy. Your data will be securely encrypted with TLS.",
+  "agree": "Agree",
+  "read_our": "Read Our",
+  "privacy_policy_and_terms": "Privacy Policy and Terms"
+  },
+  "termsAndConditionsModelBottomSheet" : {
+    "doneBTN": "Done",
+    "agree_message": "By touching Agree button, you are accepting our Terms & Conditions, Marketing Terms, and Privacy policy. Your data will be securely encrypted with TLS.",
+    "agree": "Agree",
+    "read_our": "Read Our",
+    "privacy_policy_and_terms": "Privacy Policy and Terms"
+  },
+
+
+  "homeDashboard": {
+    "explore_more": "Explore More",
+    "enjoy": "Enjoy up to",
+    "selected_products": "For selected products",
+    "membership": "With KyoSync Premium Membership",
+    "cafes": "Cafes",
+    "restaurants": "Restaurants",
+    "clubs": "Clubs",
+    "Bars": "Bars",
+    "recommended_places": "Recommended Places",
+    "see_more": "See more",
+    "places_visited": "Places I have visited",
+    "home": "Home",
+    "wish_list": "Wish List",
+    "bookings": "Bookings",
+    "my_page": "My Page"
+  },
+
+
+  "homePlaceProduct": {
+    "back": "Back",
+    "search": "Search",
+    "open": "Open",
+    "to": "to",
+    "rating": "Rating",
+    "reviews": "Reviews",
+    "food_grade": "Food Grade"
+  },
+
+  "homePlaceItem": {
+    "back": "Back",
+    "details": "Details",
+    "extra_addons": "Extra Addons",
+    "chooseUpTo": "Choose up to {count}",
+    "additional_comments": "Additional Comments",
+    "enter": "Enter your additional comments here. You may be charged for extras.",
+    "addToBasket": "Add {quantity} to basket - ${price}"
+  },
+
+
+  "homeSeeMore": {
+    "results": "Results",
+    "see_more": "See more"
+  },
+
+  "homeCart": {
+    "baskets": "Baskets",
+    "close": "Close",
+    "subtotal": "Subtotal",
+    "my_basket": "My Basket",
+    "back": "Back",
+    "subtotal": "Subtotal",
+    "checkout": "Go to checkout",
+    "add_items": "Add items",
+    "items": "items"
+  },
+
+  "homeCheckout": {
+    "back": "Back",
+    "checkout": "Check Out",
+    "preferred_method": "Preferred Method",
+    "dine_in": "Dine In",
+    "take_away": "Take away",
+    "payment_method": "Payment Method",
+    "order_summary": "Order summary",
+    "promo_code": "Promo Code",
+    "enter_text" : "Enter text",
+    "remove": "Remove",
+    "points": "Points",
+    "kyo_points_introduction": "You can use your KYO Points for purchase any product from KyoSync. Each 1 KYO point is equal  to $1.",
+    "subtotal": "Subtotal",
+    "kyo_points": "KYO Points",
+    "coupons": "Coupons",
+    "taxes": "Taxes and Other Fees",
+    "total": "Total",
+    "pay": "Pay now"
+  },
+  "homeOrder": {
+    "placingOrder": "Placing your\norder",
+    "pickupAddress": "Pickup Address",
+    "preparationTime": "Preparation Time",
+    "standardPreparation": "Standard Preparation",
+    "minutes": "Mins",
+    "orderSummary": "Order summary",
+    "orderSuccessful": "Order Successful!",
+    "yourOrderNumber": "Your Order Number",
+    "done": "Done"
+  },
+  "homeSearch": {
+    "search": "Search",
+    "recent_searches": "Recent Searches",
+    "allCategories": "All categories",
+    "topCategories": "Top Categories"
+  }
+}

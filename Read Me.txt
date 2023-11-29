@@ -1,0 +1,5 @@
+the recommendation model should be in 
+\Python backend\recommendation_system_py_server\recommendation_model.pkl
+
+
+
