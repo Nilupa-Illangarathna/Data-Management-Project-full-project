@@ -136,7 +136,7 @@ We welcome contributions to WonderPal! If you'd like to contribute, please follo
      <td> Welcome screen</td>
   </tr>
   <tr>
-    <td><img src="hhttps://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/4b856ce4-9a3d-4646-9af5-e55a854c8a29" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/6fa68557-63b9-41ba-a544-374e647b9188" width=300></td>
     <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/cca6362c-cd19-4605-a97e-9eef32985577" width=300></td>
     <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/839735e5-edf3-4e21-894a-42efc39ff67f" width=300></td>
   </tr>
