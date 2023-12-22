@@ -1,7 +1,7 @@
 # ivorywalletsolution
 
 ## Contents
-### 1. Report about the app
+### 1. Final presentation
 ### 2. Screenshots of screens
 ### 3. Screen Recordings of the app
  
