@@ -16,6 +16,133 @@
 
 # 2. Screenshots of screens
 
+
+
+
+# WonderPal
+
+Welcome to WonderPal, your personalized travel companion! WonderPal integrates advanced machine learning and natural language processing to offer tailored travel recommendations. Whether you're exploring new destinations, seeking hotel suggestions, or discovering hidden gems, WonderPal is here to enhance your travel experience.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Frontend](#frontend)
+- [Machine Learning Model](#machine-learning-model)
+- [Backend](#backend)
+- [Database](#database)
+- [Deployment](#deployment)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+WonderPal is a smart travel companion designed to make your journey unforgettable. Leveraging the power of machine learning and natural language processing, WonderPal provides personalized travel recommendations based on your preferences and positive hotel experiences.
+
+## Features
+
+- Explore personalized location suggestions based on positive reviews.
+- Seamless integration with advanced machine learning for accurate recommendations.
+- User-friendly Flutter frontend for an intuitive travel experience.
+- Feedback loop mechanism for continuous learning and improvement.
+
+## Technologies Used
+
+- **Machine Learning and NLP:**
+  - SentenceTransformer library
+  - Pre-trained embedding model: 'jinaai/jina-embedding-t-en-v1'
+  
+- **Backend:**
+  - Flask (Python)
+  - Node.js
+
+- **Frontend:**
+  - Flutter
+
+- **Database:**
+  - SQLite3
+
+- **Deployment:**
+  - Docker
+  - Google Cloud Platform (GCP)
+
+## Frontend
+
+The Flutter frontend provides a delightful user interface with creative designs, input forms, and location cards. Key components include:
+- Splash Screen
+- Helper Screen
+- App Drawer
+- Homepage with interactive cards
+- Suggestions and Recommendations
+- Visited Places
+- Feedback
+
+## Machine Learning Model
+
+WonderPal's recommendation engine employs a sophisticated machine learning model using SentenceTransformer for embedding positive reviews. The model calculates cosine similarities to offer personalized location suggestions.
+
+## Backend
+
+### Python Backend (Flask)
+
+- Flask-powered backend handles user queries, recommendations, and feedback loops.
+- Multiple APIs for retrieving recommendations, filtering data, and more.
+
+### Node.js Backend
+
+- Node.js backend serves as the master, coordinating communication between the frontend and Python backend.
+- Manages 19 APIs, orchestrating CRUD operations and handling SQLite3 databases.
+
+## Database
+
+- SQLite3 database stores essential data, including positive review embeddings and user feedback.
+- Seamless integration with backend for efficient data retrieval.
+
+## Deployment
+
+The WonderPal ecosystem is deployed using Docker for containerization. The deployment involves Google Cloud Platform for scalable and reliable hosting.
+
+## Getting Started
+
+To start exploring the wonders with WonderPal, follow the instructions in the [Getting Started](#getting-started) section.
+
+## Usage
+
+Learn how to make the most of WonderPal with the detailed instructions provided in the [Usage](#usage) section.
+
+## Contributing
+
+We welcome contributions to WonderPal! If you'd like to contribute, please follow the guidelines in the [Contributing](#contributing) section.
+
+## License
+
+WonderPal is licensed under [Your License Here]. See the [License](#license) section for more details.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <table>
   <tr>
     <td> Splash screen</td>
