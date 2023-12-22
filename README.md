@@ -57,11 +57,31 @@
  </table>
 
 
-### Settings screen
-<img src="[https://user-images.githubusercontent.com/95247831/202404483-0999cac6-2d80-4e38-914a-b109d3400336.jpg](https://user-images.githubusercontent.com/95247831/202404883-08342dc9-d071-4fdd-9437-a6fe033e7e20.jpg)" width= 300>
-<!-- ![Screenshot_20221117-143709](https://user-images.githubusercontent.com/95247831/202404883-08342dc9-d071-4fdd-9437-a6fe033e7e20.jpg) --> -->
+<table>
+  <tr>
+    <td> Wonder Finder screen</td>
+     <td> Travel Buddy screen</td>
+     <td> Wonder Lust screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/4a6d0631-0685-4d65-94aa-71444adca034" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/d1528c45-f873-4dbd-8a08-bedbb1bbe430" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/90851487-9961-4b9e-9515-f35b1c2b647c" width=300></td>
+  </tr>
+ </table>
 
-
+<table>
+  <tr>
+    <td> Wonder Finder screen</td>
+     <td> Cart screen</td>
+     <td> Purchase screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/4a069604-6940-4617-b0c7-f921fef22b07" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/c5ce03bd-2322-4fde-8aa7-75df7dc572e3" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/13a49880-da4f-4903-ba83-b15ac2017244" width=300></td>
+  </tr>
+ </table>
 
 # 3. Screen Recordings of the app
 
