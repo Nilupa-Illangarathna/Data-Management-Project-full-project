@@ -1,4 +1,4 @@
-# ivorywalletsolution
+# WonderPal Fantasy driven
 
 ## Contents
 ### 1. Final presentation
