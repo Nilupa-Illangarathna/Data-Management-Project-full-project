@@ -50,20 +50,44 @@ WonderPal is a smart travel companion designed to make your journey unforgettabl
 
 - **Machine Learning and NLP:**
   - SentenceTransformer library
-  - Pre-trained embedding model: 'jinaai/jina-embedding-t-en-v1'
-  
-- **Backend:**
-  - Flask (Python)
-  - Node.js
+  - Natural Language Toolkit (NLTK)
+  - Hugging Face Models:
+    - [DISTILlBERT](https://huggingface.co/distilbert-base-uncased) by Hugging Face Team
+    - [BERT](https://huggingface.co/tftransformers/bert-base-uncased) by Google AI and Hugging Face Team
+    - [GPT-2](https://huggingface.co/gpt2) by OpenAI and Hugging Face Team
+    - [T5](https://huggingface.co/google/t5-small-lm-adapt) by Google AI and Hugging Face Team
+    - [All-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) by Google AI and Hugging Face Team
+    - [wikineural-multilingual-ner](https://huggingface.co/Babelscape/wikineural-multilingual-ner) by Babelscape
+    - [FoodBaseBERT-NER](https://huggingface.co/Dizex/FoodBaseBERT-NER) by Dizex
+    - [jina-embedding-t-en-v1](https://huggingface.co/jinaai/jina-embedding-t-en-v1) by Jina AI
 
-- **Frontend:**
-  - Flutter
+- **Python Backend (Flask):**
+  - Flask
+  - Pandas for data manipulation
+  - Pickle for model persistence
+
+- **Node.js Backend:**
+  - Node.js
+  - Express.js
+  - SQLite3 for backend side database management
+
+- **Frontend (Flutter):**
+  - Dart
+  - Flutter SDK
 
 - **Database:**
   - SQLite3
 
-- **Planned Deployment:**
+- **planned Deployment:**
   - Google Cloud Platform (GCP)
+  
+- **Other Tools and Libraries:**
+  - Google Drive API for model storage
+  - Google Colab for ML
+  - Various data transformation libraries
+  - Git and GitHub for version control
+
+
 
 ## Frontend
 
@@ -97,27 +121,9 @@ WonderPal's recommendation engine employs a sophisticated machine learning model
 - SQLite3 database stores essential data, including positive review embeddings and user feedback.
 - Seamless integration with backend for efficient data retrieval.
 
-## Deployment
-
-The WonderPal ecosystem is deployed using Docker for containerization. The deployment involves Google Cloud Platform for scalable and reliable hosting.
-
-## Getting Started
-
-To start exploring the wonders with WonderPal, follow the instructions in the [Getting Started](#getting-started) section.
-
-## Usage
-
-Learn how to make the most of WonderPal with the detailed instructions provided in the [Usage](#usage) section.
-
 ## Contributing
 
 We welcome contributions to WonderPal! If you'd like to contribute, please follow the guidelines in the [Contributing](#contributing) section.
-
-## License
-
-WonderPal is licensed under [Your License Here]. See the [License](#license) section for more details.
-
-
 
 
 
