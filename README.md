@@ -122,22 +122,6 @@ WonderPal is licensed under [Your License Here]. See the [License](#license) sec
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # 2. Screenshots of screens
 
 <table>
@@ -206,26 +190,5 @@ WonderPal is licensed under [Your License Here]. See the [License](#license) sec
     <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/13a49880-da4f-4903-ba83-b15ac2017244" width=300></td>
   </tr>
  </table>
-
-# 3. Screen Recordings of the app
-
-
-https://user-images.githubusercontent.com/95247831/205420459-6ec970a3-126c-489c-a154-95e4eed75975.mp4
-
-
-https://user-images.githubusercontent.com/95247831/205420467-063977b7-3678-416a-961f-88e19ddc0c30.mp4
-
-https://user-images.githubusercontent.com/95247831/205420474-1cd709b4-ca4d-483d-baf0-7120d5c17b24.mp4
-
-
-https://user-images.githubusercontent.com/95247831/205420476-c68869f7-d49d-4f36-8ef9-edb480b2e0e9.mp4
-
-https://user-images.githubusercontent.com/95247831/205420479-0afb8379-c5b9-4736-b917-2f98da83f88d.mp4
-
-
-https://user-images.githubusercontent.com/95247831/205420497-1c9ac8ee-9c04-43ce-b241-6c5e46c442d9.mp4
-
-
-https://user-images.githubusercontent.com/95247831/205420507-864d5b28-2465-4e82-86b3-3044d93d6d5c.mp4
 
 
