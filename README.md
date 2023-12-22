@@ -7,7 +7,7 @@
  
 # 1. Basic overview of the project is inside the following ppt
 
-[19_ENG_033_Final_Report.pdf](https://github.com/Nilupa-Illangarathna/Ivory-Wallet/files/10029657/19_ENG_033_Final_Report.pdf)
+[WonderPal Final Presentation-compressed-compressed.pdf](https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/files/13749860/WonderPal.Final.Presentation-compressed-compressed.pdf)
 
 # 2. Screenshots of screens
 <table>
