@@ -23,15 +23,9 @@
      <td> Welcome screen</td>
   </tr>
   <tr>
-
-![drawer](https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/cca6362c-cd19-4605-a97e-9eef32985577)
-![welcomescreen](https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/839735e5-edf3-4e21-894a-42efc39ff67f)
-![splash](https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/4b856ce4-9a3d-4646-9af5-e55a854c8a29)
-
-   
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/59089468-847c-48f8-a3e1-78559c9fa93b" width=300></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/e6c73b0f-f3d3-4619-b28a-7fbfcf57ae38" width=300></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/15ae5c6e-0d1e-47ed-bd82-aa4c008b5fd4" width=300></td>
+    <td><img src="hhttps://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/4b856ce4-9a3d-4646-9af5-e55a854c8a29" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/cca6362c-cd19-4605-a97e-9eef32985577" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/839735e5-edf3-4e21-894a-42efc39ff67f" width=300></td>
   </tr>
  </table>
 
