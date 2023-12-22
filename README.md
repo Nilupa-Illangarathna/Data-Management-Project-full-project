@@ -18,13 +18,13 @@
 <table>
   <tr>
     <td> Helper screen</td>
-     <td> Homescreen</td>
-     <td> App drawer</td>
+     <td> Helper screen</td>
+     <td> Helper screen</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/95247831/202404483-0999cac6-2d80-4e38-914a-b109d3400336.jpg" width=300></td>
-    <td><img src="https://user-images.githubusercontent.com/95247831/202404530-e655fd9f-e8af-458d-933a-953f9951839b.jpg" width=300></td>
-    <td><img src="https://user-images.githubusercontent.com/95247831/202404558-88f0cd2e-20bc-42d9-bcb4-b5ae3f9844a4.jpg" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/59089468-847c-48f8-a3e1-78559c9fa93b" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/e6c73b0f-f3d3-4619-b28a-7fbfcf57ae38" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/15ae5c6e-0d1e-47ed-bd82-aa4c008b5fd4" width=300></td>
   </tr>
  </table>
 
