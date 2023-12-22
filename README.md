@@ -62,8 +62,7 @@ WonderPal is a smart travel companion designed to make your journey unforgettabl
 - **Database:**
   - SQLite3
 
-- **Deployment:**
-  - Docker
+- **Planned Deployment:**
   - Google Cloud Platform (GCP)
 
 ## Frontend
