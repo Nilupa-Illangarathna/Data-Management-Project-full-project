@@ -5,7 +5,7 @@
 ### 2. Screenshots of screens
 ### 3. Screen Recordings of the app
  
-# 1. All the data related to this project can be found inside the following pdf
+# 1. Basic overview of the project is inside the following ppt
 
 [19_ENG_033_Final_Report.pdf](https://github.com/Nilupa-Illangarathna/Ivory-Wallet/files/10029657/19_ENG_033_Final_Report.pdf)
 
