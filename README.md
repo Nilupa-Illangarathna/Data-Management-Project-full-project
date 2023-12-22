@@ -45,14 +45,14 @@
 
 <table>
   <tr>
-    <td> Expense screen</td>
-     <td> Income screen</td>
-     <td> Budget setter screen</td>
+    <td> Wonder Finder screen</td>
+     <td> Travel Buddy screen</td>
+     <td> Wonder Lust screen</td>
   </tr>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/95247831/202404619-90a20e87-9c9e-42f6-9749-dc21b60e30a2.jpg" width=300></td>
-    <td><img src="https://user-images.githubusercontent.com/95247831/202404483-0999cac6-2d80-4e38-914a-b109d3400336.jpg" width=300></td>
-    <td><img src="https://user-images.githubusercontent.com/95247831/202404908-3e44a6cb-c601-4050-b8fd-fcc9ede73171.jpg" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/4a6d0631-0685-4d65-94aa-71444adca034" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/d1528c45-f873-4dbd-8a08-bedbb1bbe430" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/90851487-9961-4b9e-9515-f35b1c2b647c" width=300></td>
   </tr>
  </table>
 
