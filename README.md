@@ -3,19 +3,19 @@
 ## Contents
 ### 1. Final presentation
 ### 2. Final Article
-### 3. Screenshots of screens
-### 4. Screen Recordings of the app
+### 3. Introduction
+### 4. Screenshots of screens
  
 # 1. Basic overview of the project is inside the following ppt
 
 [WonderPal Final Presentation-compressed-compressed.pdf](https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/files/13749860/WonderPal.Final.Presentation-compressed-compressed.pdf)
 
-# 1. Final Article of the project is inside the following pdf
+# 2. Final Article of the project is inside the following pdf
 
 [Article.pdf](https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/files/13749889/Article.pdf)
 
 
-
+# 3. Introduction
 
 # WonderPal
 
@@ -127,7 +127,7 @@ We welcome contributions to WonderPal! If you'd like to contribute, please follo
 
 
 
-# 2. Screenshots of screens
+# 4. Screenshots of screens
 
 <table>
   <tr>
