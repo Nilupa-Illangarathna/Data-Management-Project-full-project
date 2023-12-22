@@ -14,8 +14,6 @@
 
 [Article.pdf](https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/files/13749889/Article.pdf)
 
-# 2. Screenshots of screens
-
 
 
 
@@ -28,7 +26,6 @@ Welcome to WonderPal, your personalized travel companion! WonderPal integrates a
 - [Introduction](#introduction)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Frontend](#frontend)
 - [Machine Learning Model](#machine-learning-model)
 - [Backend](#backend)
 - [Database](#database)
@@ -40,7 +37,7 @@ Welcome to WonderPal, your personalized travel companion! WonderPal integrates a
 
 ## Introduction
 
-WonderPal is a smart travel companion designed to make your journey unforgettable. Leveraging the power of machine learning and natural language processing, WonderPal provides personalized travel recommendations based on your preferences and positive hotel experiences.
+WonderPal is a smart travel companion designed to make your journey unforgettable. Leveraging the power of machine learning and natural language processing, WonderPal provides personalized fa travel recommendations based on your preferences and positive hotel experiences.
 
 ## Features
 
@@ -141,7 +138,7 @@ WonderPal is licensed under [Your License Here]. See the [License](#license) sec
 
 
 
-
+# 2. Screenshots of screens
 
 <table>
   <tr>
