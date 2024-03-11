@@ -1,11 +1,9 @@
 # WonderPal Fantasy driven
 
-## Contents
-### 1. Final presentation
-### 2. Final Article
-### 3. Introduction
-### 4. Screenshots of screens
- 
+# WonderPal
+
+Welcome to WonderPal, your personalized travel companion! WonderPal integrates advanced machine learning and natural language processing to offer tailored travel recommendations. Whether you're exploring new destinations, seeking hotel suggestions, or discovering hidden gems, WonderPal is here to enhance your travel experience.
+
 # 1. Basic overview of the project is inside the following ppt
 
 [WonderPal Final Presentation-compressed-compressed.pdf](https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/files/13749860/WonderPal.Final.Presentation-compressed-compressed.pdf)
@@ -14,12 +12,6 @@
 
 [Article.pdf](https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/files/13749889/Article.pdf)
 
-
-# 3. Introduction
-
-# WonderPal
-
-Welcome to WonderPal, your personalized travel companion! WonderPal integrates advanced machine learning and natural language processing to offer tailored travel recommendations. Whether you're exploring new destinations, seeking hotel suggestions, or discovering hidden gems, WonderPal is here to enhance your travel experience.
 
 ## Table of Contents
 
