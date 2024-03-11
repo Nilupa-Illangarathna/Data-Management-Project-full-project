@@ -54,6 +54,75 @@ Welcome to WonderPal, your personalized travel companion! WonderPal integrates a
 
 WonderPal is a smart travel companion designed to make your journey unforgettable. Leveraging the power of machine learning and natural language processing, WonderPal provides personalized fa travel recommendations based on your preferences and positive hotel experiences.
 
+## 4. Screenshots of screens
+
+<table>
+  <tr>
+    <td> Splash screen</td>
+     <td> App Drawer</td>
+     <td> Welcome screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/6fa68557-63b9-41ba-a544-374e647b9188" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/cca6362c-cd19-4605-a97e-9eef32985577" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/839735e5-edf3-4e21-894a-42efc39ff67f" width=300></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td> Helper screen</td>
+     <td> Helper screen</td>
+     <td> Helper screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/59089468-847c-48f8-a3e1-78559c9fa93b" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/e6c73b0f-f3d3-4619-b28a-7fbfcf57ae38" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/15ae5c6e-0d1e-47ed-bd82-aa4c008b5fd4" width=300></td>
+  </tr>
+ </table>
+
+
+<table>
+  <tr>
+    <td> Wonder Finder screen</td>
+     <td> Travel Buddy screen</td>
+     <td> Wonder Lust screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/4a6d0631-0685-4d65-94aa-71444adca034" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/d1528c45-f873-4dbd-8a08-bedbb1bbe430" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/90851487-9961-4b9e-9515-f35b1c2b647c" width=300></td>
+  </tr>
+ </table>
+
+
+<table>
+  <tr>
+    <td> Wonder Finder screen</td>
+     <td> Travel Buddy screen</td>
+     <td> Wonder Lust screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/4a6d0631-0685-4d65-94aa-71444adca034" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/d1528c45-f873-4dbd-8a08-bedbb1bbe430" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/90851487-9961-4b9e-9515-f35b1c2b647c" width=300></td>
+  </tr>
+ </table>
+
+<table>
+  <tr>
+    <td> Wonder Finder screen</td>
+     <td> Cart screen</td>
+     <td> Purchase screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/4a069604-6940-4617-b0c7-f921fef22b07" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/c5ce03bd-2322-4fde-8aa7-75df7dc572e3" width=300></td>
+    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/13a49880-da4f-4903-ba83-b15ac2017244" width=300></td>
+  </tr>
+ </table>
+
 ## Features
 
 - Explore personalized location suggestions based on positive reviews.
@@ -142,73 +211,6 @@ We welcome contributions to WonderPal! If you'd like to contribute, please follo
 
 
 
-# 4. Screenshots of screens
 
-<table>
-  <tr>
-    <td> Splash screen</td>
-     <td> App Drawer</td>
-     <td> Welcome screen</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/6fa68557-63b9-41ba-a544-374e647b9188" width=300></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/cca6362c-cd19-4605-a97e-9eef32985577" width=300></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/839735e5-edf3-4e21-894a-42efc39ff67f" width=300></td>
-  </tr>
- </table>
-
-<table>
-  <tr>
-    <td> Helper screen</td>
-     <td> Helper screen</td>
-     <td> Helper screen</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/59089468-847c-48f8-a3e1-78559c9fa93b" width=300></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/e6c73b0f-f3d3-4619-b28a-7fbfcf57ae38" width=300></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/15ae5c6e-0d1e-47ed-bd82-aa4c008b5fd4" width=300></td>
-  </tr>
- </table>
-
-
-<table>
-  <tr>
-    <td> Wonder Finder screen</td>
-     <td> Travel Buddy screen</td>
-     <td> Wonder Lust screen</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/4a6d0631-0685-4d65-94aa-71444adca034" width=300></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/d1528c45-f873-4dbd-8a08-bedbb1bbe430" width=300></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/90851487-9961-4b9e-9515-f35b1c2b647c" width=300></td>
-  </tr>
- </table>
-
-
-<table>
-  <tr>
-    <td> Wonder Finder screen</td>
-     <td> Travel Buddy screen</td>
-     <td> Wonder Lust screen</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/4a6d0631-0685-4d65-94aa-71444adca034" width=300></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/d1528c45-f873-4dbd-8a08-bedbb1bbe430" width=300></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/90851487-9961-4b9e-9515-f35b1c2b647c" width=300></td>
-  </tr>
- </table>
-
-<table>
-  <tr>
-    <td> Wonder Finder screen</td>
-     <td> Cart screen</td>
-     <td> Purchase screen</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/4a069604-6940-4617-b0c7-f921fef22b07" width=300></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/c5ce03bd-2322-4fde-8aa7-75df7dc572e3" width=300></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/13a49880-da4f-4903-ba83-b15ac2017244" width=300></td>
-  </tr>
- </table>
 
 
