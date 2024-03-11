@@ -4,6 +4,29 @@
 
 Welcome to WonderPal, your personalized travel companion! WonderPal integrates advanced machine learning and natural language processing to offer tailored travel recommendations. Whether you're exploring new destinations, seeking hotel suggestions, or discovering hidden gems, WonderPal is here to enhance your travel experience.
 
+
+ [![Flutter](https://img.shields.io/badge/framework-Flutter-blue)](https://flutter.dev/)
+ [![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-green)](https://en.wikipedia.org/wiki/Natural_language_processing)
+ [![Python](https://img.shields.io/badge/language-Python-brightgreen)](https://www.python.org/)
+ [![Flask](https://img.shields.io/badge/framework-Flask-brightgreen)](https://flask.palletsprojects.com/)
+ [![Node.js](https://img.shields.io/badge/runtime-Node.js-green)](https://nodejs.org/)
+ [![SQLite3](https://img.shields.io/badge/database-SQLite3-brightgreen)](https://www.sqlite.org/)
+ [![GitHub](https://img.shields.io/badge/version%20control-GitHub-lightgrey)](https://github.com/)
+ [![Hugging Face](https://img.shields.io/badge/model%20repository-Hugging%20Face-9cf)](https://huggingface.co/)
+ [![Google Colab](https://img.shields.io/badge/platform-Google%20Colab-blue)](https://colab.research.google.com/)
+ [![Kaggle](https://img.shields.io/badge/dataset-Kaggle-orange)](https://www.kaggle.com/)
+ [![Spark](https://img.shields.io/badge/technology-Apache%20Spark-yellow)](https://spark.apache.org/)
+ [![Spring Boot](https://img.shields.io/badge/framework-Spring%20Boot-brightgreen)](https://spring.io/projects/spring-boot)
+ [![GPT-3](https://img.shields.io/badge/model-GPT-3-important)](https://www.openai.com/gpt-3/)
+ [![T5](https://img.shields.io/badge/model-T5-important)](https://huggingface.co/t5)
+ [![BERT](https://img.shields.io/badge/model-BERT-important)](https://huggingface.co/bert-base-uncased)
+ [![DistilBERT](https://img.shields.io/badge/model-DistilBERT-important)](https://huggingface.co/distilbert-base-uncased)
+ [![NLTK](https://img.shields.io/badge/library-NLTK-blue)](https://www.nltk.org/)
+ [![All-MiniLM-L6-v2](https://img.shields.io/badge/model-All--MiniLM--L6--v2-important)](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2)
+ [![Babelscape/wikineural-multilingual-ner](https://img.shields.io/badge/model-Babelscape%2Fwikineural--multilingual--ner-important)](https://huggingface.co/Babelscape/wikineural-multilingual-ner)
+ [![Dizex/FoodBaseBERT](https://img.shields.io/badge/model-Dizex%2FFoodBaseBERT-important)](https://huggingface.co/Dizex/FoodBaseBERT-NER)
+
+
 ## 1. Basic overview of the project is inside the following ppt
 
 [WonderPal Final Presentation-compressed-compressed.pdf](https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/files/13749860/WonderPal.Final.Presentation-compressed-compressed.pdf)
