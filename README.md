@@ -4,11 +4,11 @@
 
 Welcome to WonderPal, your personalized travel companion! WonderPal integrates advanced machine learning and natural language processing to offer tailored travel recommendations. Whether you're exploring new destinations, seeking hotel suggestions, or discovering hidden gems, WonderPal is here to enhance your travel experience.
 
-# 1. Basic overview of the project is inside the following ppt
+## 1. Basic overview of the project is inside the following ppt
 
 [WonderPal Final Presentation-compressed-compressed.pdf](https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/files/13749860/WonderPal.Final.Presentation-compressed-compressed.pdf)
 
-# 2. Final Article of the project is inside the following pdf
+## 2. Final Article of the project is inside the following pdf
 
 [Article.pdf](https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/files/13749889/Article.pdf)
 
