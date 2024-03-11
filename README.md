@@ -54,7 +54,56 @@ Welcome to WonderPal, your personalized travel companion! WonderPal integrates a
 
 WonderPal is a smart travel companion designed to make your journey unforgettable. Leveraging the power of machine learning and natural language processing, WonderPal provides personalized fa travel recommendations based on your preferences and positive hotel experiences.
 
-## 4. Screenshots of screens
+
+## Features
+
+- Explore personalized location suggestions based on positive reviews.
+- Seamless integration with advanced machine learning for accurate recommendations.
+- User-friendly Flutter frontend for an intuitive travel experience.
+- Feedback loop mechanism for continuous learning and improvement.
+
+## Technologies Used
+
+- **Machine Learning and NLP:**
+  - SentenceTransformer library
+  - Natural Language Toolkit (NLTK)
+  - Hugging Face Models:
+    - [DISTILlBERT](https://huggingface.co/distilbert-base-uncased) by Hugging Face Team
+    - [BERT](https://huggingface.co/tftransformers/bert-base-uncased) by Google AI and Hugging Face Team
+    - [GPT-2](https://huggingface.co/gpt2) by OpenAI and Hugging Face Team
+    - [T5](https://huggingface.co/google/t5-small-lm-adapt) by Google AI and Hugging Face Team
+    - [All-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) by Google AI and Hugging Face Team
+    - [wikineural-multilingual-ner](https://huggingface.co/Babelscape/wikineural-multilingual-ner) by Babelscape
+    - [FoodBaseBERT-NER](https://huggingface.co/Dizex/FoodBaseBERT-NER) by Dizex
+    - [jina-embedding-t-en-v1](https://huggingface.co/jinaai/jina-embedding-t-en-v1) by Jina AI
+
+- **Python Backend (Flask):**
+  - Flask
+  - Pandas for data manipulation
+  - Pickle for model persistence
+
+- **Node.js Backend:**
+  - Node.js
+  - Express.js
+  - SQLite3 for backend side database management
+
+- **Frontend (Flutter):**
+  - Dart
+  - Flutter SDK
+
+- **Database:**
+  - SQLite3
+
+- **planned Deployment:**
+  - Google Cloud Platform (GCP)
+  
+- **Other Tools and Libraries:**
+  - Google Drive API for model storage
+  - Google Colab for ML
+  - Various data transformation libraries
+  - Git and GitHub for version control
+
+## Screenshots of screens
 
 <table>
   <tr>
@@ -122,56 +171,6 @@ WonderPal is a smart travel companion designed to make your journey unforgettabl
     <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/13a49880-da4f-4903-ba83-b15ac2017244" width=300></td>
   </tr>
  </table>
-
-## Features
-
-- Explore personalized location suggestions based on positive reviews.
-- Seamless integration with advanced machine learning for accurate recommendations.
-- User-friendly Flutter frontend for an intuitive travel experience.
-- Feedback loop mechanism for continuous learning and improvement.
-
-## Technologies Used
-
-- **Machine Learning and NLP:**
-  - SentenceTransformer library
-  - Natural Language Toolkit (NLTK)
-  - Hugging Face Models:
-    - [DISTILlBERT](https://huggingface.co/distilbert-base-uncased) by Hugging Face Team
-    - [BERT](https://huggingface.co/tftransformers/bert-base-uncased) by Google AI and Hugging Face Team
-    - [GPT-2](https://huggingface.co/gpt2) by OpenAI and Hugging Face Team
-    - [T5](https://huggingface.co/google/t5-small-lm-adapt) by Google AI and Hugging Face Team
-    - [All-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) by Google AI and Hugging Face Team
-    - [wikineural-multilingual-ner](https://huggingface.co/Babelscape/wikineural-multilingual-ner) by Babelscape
-    - [FoodBaseBERT-NER](https://huggingface.co/Dizex/FoodBaseBERT-NER) by Dizex
-    - [jina-embedding-t-en-v1](https://huggingface.co/jinaai/jina-embedding-t-en-v1) by Jina AI
-
-- **Python Backend (Flask):**
-  - Flask
-  - Pandas for data manipulation
-  - Pickle for model persistence
-
-- **Node.js Backend:**
-  - Node.js
-  - Express.js
-  - SQLite3 for backend side database management
-
-- **Frontend (Flutter):**
-  - Dart
-  - Flutter SDK
-
-- **Database:**
-  - SQLite3
-
-- **planned Deployment:**
-  - Google Cloud Platform (GCP)
-  
-- **Other Tools and Libraries:**
-  - Google Drive API for model storage
-  - Google Colab for ML
-  - Various data transformation libraries
-  - Git and GitHub for version control
-
-
 
 ## Frontend
 
