@@ -146,18 +146,6 @@ WonderPal is a smart travel companion designed to make your journey unforgettabl
  </table>
 
 
-<table>
-  <tr>
-    <td> Wonder Finder screen</td>
-     <td> Travel Buddy screen</td>
-     <td> Wonder Lust screen</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/4a6d0631-0685-4d65-94aa-71444adca034" width=300></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/d1528c45-f873-4dbd-8a08-bedbb1bbe430" width=300></td>
-    <td><img src="https://github.com/Nilupa-Illangarathna/Data-Management-Project-full-project/assets/95247831/90851487-9961-4b9e-9515-f35b1c2b647c" width=300></td>
-  </tr>
- </table>
 
 <table>
   <tr>
