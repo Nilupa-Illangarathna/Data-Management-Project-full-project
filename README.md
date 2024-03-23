@@ -6,7 +6,7 @@ Welcome to WonderPal, your personalized travel companion! WonderPal integrates a
 
 
  [![Flutter](https://img.shields.io/badge/framework-Flutter-blue)](https://flutter.dev/)
- [![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-green)](https://en.wikipedia.org/wiki/Natural_language_processing)
+ [![NLP](https://img.shields.io/badge/NLP-Natural%20Language%20Processing-green)](https://en.wikipedia.org/wiki/Natural_language_processing) 
  [![Python](https://img.shields.io/badge/language-Python-brightgreen)](https://www.python.org/)
  [![Flask](https://img.shields.io/badge/framework-Flask-brightgreen)](https://flask.palletsprojects.com/)
  [![Node.js](https://img.shields.io/badge/runtime-Node.js-green)](https://nodejs.org/)
